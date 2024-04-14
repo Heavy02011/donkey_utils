@@ -1,2 +1,3 @@
-# donkey_utils
-A Python library for handling [DonkeyCar](https://github.com/autorope/donkeycar) data.
+# Donkey Utils
+
+Detailed information about the library, installation, and usage.
