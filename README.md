@@ -14,7 +14,7 @@
 You can install `donkey_utils` directly from PyPI:
 
 ```bash
-pip install donkey_utils
+xxx pip install donkey_utils
 ```
 
 To install from source, clone the repository and use the setup file:
@@ -79,36 +79,3 @@ We welcome contributions from the community. Here are some ways you can contribu
 If you have any questions or need help, please open an issue on the GitHub repository.
 
 Thank you for using or contributing to `donkey_utils`!
-```
-xxxxxxxxxxxxxxxxxxxxxxxxx
-This README file is ready to be included in your GitHub repository or any other version control system you are using for the `donkey_utils` library. It provides comprehensive guidance for installation, usage, and contributing to the project.
-
-
-
-## Donkey Utils
-
-`donkey_utils` is a Python library designed to simplify the handling and processing of data for DonkeyCar projects. It provides a set of tools for file extraction, directory management, image processing, and data manipulation.
-
-## Features
-
-- **File Extraction**: Functions to extract ZIP, GZ, and TAR.GZ files.
-- **Directory Management**: Utilities to change and verify the current working directory.
-- **Image Processing**: Tools to display images and manage image data.
-- **Data Handling**: Functions to convert data into structured formats like pandas DataFrames.
-
-## Installation
-
-You can install `donkey_utils` directly from PyPI:
-
-```bash
-pip install donkey_utils
-
-To install from source, clone the repository and use the setup file:
-
-git clone https://github.com/yourusername/donkey_utils.git
-cd donkey_utils
-python setup.py install
-
-Usage
-
-Here are some quick examples of what you can do with donkey_utils:
